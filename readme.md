@@ -433,28 +433,28 @@ Deployment files included:
 ## Home
 
 <p align="center">
-  <img src="output-1.png" width="100%">
+  <img src="./screenshots/output-1.png" width="100%">
 </p>
 ---
 
 ## Prediction Dashboard
 
 <p align="center">
-  <img src="output-3.png" width="100%">
+  <img src="./screenshots/output-3.png" width="100%">
 </p>
 ---
 
 ## Winning Probability
 
 <p align="center">
-  <img src="output-6.png" width="100%">
+  <img src="./screenshots/output-6.png" width="100%">
 </p>
 ---
 
 ## Charts
 
 <p align="center">
-  <img src="output-7.png" width="100%">
+  <img src="./screenshots/output-7.png" width="100%">
 </p>
 ---
 
