@@ -432,26 +432,30 @@ Deployment files included:
 
 ## Home
 
-> Add screenshot here
-
+<p align="center">
+  <img src="output-1.png" width="100%">
+</p>
 ---
 
 ## Prediction Dashboard
 
-> Add screenshot here
-
+<p align="center">
+  <img src="output-3.png" width="100%">
+</p>
 ---
 
 ## Winning Probability
 
-> Add screenshot here
-
+<p align="center">
+  <img src="output-6.png" width="100%">
+</p>
 ---
 
 ## Charts
 
-> Add screenshot here
-
+<p align="center">
+  <img src="output-7.png" width="100%">
+</p>
 ---
 
 # 🚀 Future Improvements
