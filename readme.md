@@ -1,7 +1,7 @@
 # 🏏 IPL Winning Probability Predictor
 
 <p align="center">
-  <img src="assets/icons/logo.png" alt="IPL Predictor Logo" width="180"/>
+  <img src="logo.png" alt="IPL Predictor Logo" width="180"/>
 </p>
 
 <p align="center">
